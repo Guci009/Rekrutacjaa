@@ -1,0 +1,16 @@
+C:\Users\Glucio\Desktop\Homework\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\Glucio\Desktop\Homework\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\Glucio\Desktop\Homework\Multithreading\bin\Debug\Multithreading.pdb
+C:\Users\Glucio\Desktop\Homework\Multithreading\obj\Debug\Multithreading.csproj.AssemblyReference.cache
+C:\Users\Glucio\Desktop\Homework\Multithreading\obj\Debug\Multithreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glucio\Desktop\Homework\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Glucio\Desktop\Homework\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\Glucio\Desktop\Homework\Multithreading\obj\Debug\Multithreading.pdb
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\obj\Debug\Multithreading.csproj.AssemblyReference.cache
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\obj\Debug\Multithreading.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\obj\Debug\Multithreading.csproj.CoreCompileInputs.cache
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\obj\Debug\Multithreading.exe
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\obj\Debug\Multithreading.pdb
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\bin\Debug\Multithreading.exe.config
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\bin\Debug\Multithreading.exe
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Multithreading\bin\Debug\Multithreading.pdb

@@ -1,0 +1,16 @@
+C:\Users\Glucio\Desktop\Homework\Optimization\bin\Release\Optimization.exe.config
+C:\Users\Glucio\Desktop\Homework\Optimization\bin\Release\Optimization.exe
+C:\Users\Glucio\Desktop\Homework\Optimization\bin\Release\Optimization.pdb
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Release\Optimization.csproj.AssemblyReference.cache
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Release\Optimization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Release\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Release\Optimization.exe
+C:\Users\Glucio\Desktop\Homework\Optimization\obj\Release\Optimization.pdb
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\bin\Release\Optimization.exe.config
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\bin\Release\Optimization.exe
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\bin\Release\Optimization.pdb
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\obj\Release\Optimization.csproj.AssemblyReference.cache
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\obj\Release\Optimization.csproj.SuggestedBindingRedirects.cache
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\obj\Release\Optimization.csproj.CoreCompileInputs.cache
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\obj\Release\Optimization.exe
+C:\Users\Glucio\Desktop\Rekrutacja-main\Homework\Optimization\obj\Release\Optimization.pdb
